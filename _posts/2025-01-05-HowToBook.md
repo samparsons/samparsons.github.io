@@ -1,8 +1,7 @@
 ---
 layout: post
-title: Book me on Rover.com
-cover-img: assets/img/catPotatoLogo1.png
-thumbnail-img: assets/img/catPotatoLogo2.png
+title: Book on Rover.com
+thumbnail-img: assets/img/catPotatoLogo1.png
 share-img: /assets/img/path.jpg
 tags: [How To Book]
 ---
